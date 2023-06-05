@@ -5,7 +5,7 @@ use ieee.numeric_std.all;
 
 
 -- Entity
-entity reg_fifo_no_flags_tb is
+entity reg_fifo_no_flag_tb is
 end reg_fifo_no_flag_tb;
 
 
