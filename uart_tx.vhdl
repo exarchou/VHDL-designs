@@ -21,7 +21,7 @@ entity uart_tx is
         i_tx_byte   : in  std_logic_vector(7 downto 0)
         o_tx_enable : out std_logic;
         o_tx_serial : out std_logic;
-        o_tx_done   : out std_logic;
+        o_tx_done   : out std_logic
     );
 end uart_tx;
 
